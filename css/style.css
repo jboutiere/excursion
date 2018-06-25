@@ -1,7 +1,14 @@
 html {
   font-family: Verdana, sans-serif;
   background-color: black;
-  text-align: center;
+}
+
+.body {
+    text-align: center;
+}
+
+.footer {
+  text-align: right;
 }
 
 h1 {
@@ -9,6 +16,18 @@ h1 {
   font-size: 50px;
   text-align: center;
  color: white;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+ color: white;
+}
+
+p {
+color: Gray;
+  font-size: 21px;
 }
 
 .link {
